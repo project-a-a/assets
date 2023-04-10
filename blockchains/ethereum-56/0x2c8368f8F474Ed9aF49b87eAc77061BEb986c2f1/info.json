@@ -7,5 +7,35 @@
     "symbol": "LEOS",
     "decimals": 8,
     "status": "active",
-    "id": "0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1"
+    "id": "0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Leonicornswap"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/swapleonicorn"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/leonicornswap"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://leonicornswap.com/images/whitepaper.pdf"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/Leonicorn-Swap-104821111837719"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/LeonicornSwap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/leonicorn-swap/"
+        }
+    ]
 }

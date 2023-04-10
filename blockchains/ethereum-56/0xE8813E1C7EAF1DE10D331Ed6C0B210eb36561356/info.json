@@ -1,11 +1,11 @@
 {
     "name": "Bishoku Inu",
-    "website": "https://www.bishokuinu.com",
-    "description": "Bishoku Inu, 11% fee for each transaction, of which 3% is used for marketing, 4% is used for repurchase and destory, and 4% is distributed to all holders. The core mechanism is to repurchase and destroy for every additional 1,000 holder addresses.",
-    "explorer": "https://bscscan.com/token/0xe8813e1c7eaf1de10d331ed6c0b210eb36561356",
+    "website": "https://www.bishokuinu.com/",
+    "description": "Bishoku Inu ($BISHOKU) is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users!",
+    "explorer": "https://bscscan.com/token/0xE8813E1C7EAF1DE10D331Ed6C0B210eb36561356",
     "type": "BEP20",
-    "symbol": "Bishoku",
+    "symbol": "BISHOKU",
     "decimals": 9,
     "status": "active",
-    "id": "0xe8813e1c7eaf1de10d331ed6c0b210eb36561356"
+    "id": "0xE8813E1C7EAF1DE10D331Ed6C0B210eb36561356"
 }

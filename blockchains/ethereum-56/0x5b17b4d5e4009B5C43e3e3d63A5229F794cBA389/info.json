@@ -1,34 +1,30 @@
 {
-  "id": "0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389",
-  "name": "ACryptoS(I)",
-  "type": "BEP20",
-  "symbol": "ACSI",
-  "decimals": 18,
-  "website": "https://acryptos.com/",
-  "description": "ACSI is the governance token for the Stableswap DEX and ACSI.Finance (AMM) products by ACryptoS (Advanced Crypto Strategies). ACryptoS StableSwap is an automated market maker (AMM) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on BNBChain. ACSI.Finance is built on Balancer v2, and it brings a next-generation AMM protocol to BNBChain allowing custom LP ratios and and ability to add up to 8 assets in a LP.",
-  "explorer": "https://bscscan.com/token/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
-  "status": "active",
-  "links": [
-    {
-      "url": "https://twitter.com/acryptosdao",
-      "name": "twitter"
-    },
-    {
-      "url": "https://medium.com/acryptos",
-      "name": "medium"
-    },
-    {
-      "url": "https://t.me/acryptos9",
-      "name": "telegram"
-    },
-    {
-      "url": "https://www.reddit.com/r/ACryptoS",
-      "name": "reddit"
-    },
-    {
-      "url": "https://discord.gg/xHqhWxUeeR",
-      "name": "discord"
-    }
-  ]
+    "name": "ACryptoS(I)",
+    "website": "https://acryptos.com/",
+    "description": "ACryptoS StableSwap is an automated market maker (AMM) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain. ACryptoS Vaults grow your assets via automated yield Strategies. This saves users time and enables higher yields through more frequent compounding, more efficient gas utilisation, and other creative automations.",
+    "research": "https://docs.acryptos.com/",
+    "explorer": "https://bscscan.com/token/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
+    "type": "BEP20",
+    "symbol": "ACSI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389",
+    "links": [
+        {
+            "name": "source_code",
+            "url": "https://app.acryptos.com/contracts/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/acryptosx"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/acryptos9"
+        },
+        {
+            "name": "medium",
+            "url": "https://acryptos.medium.com/"
+        }
+    ]
 }
-

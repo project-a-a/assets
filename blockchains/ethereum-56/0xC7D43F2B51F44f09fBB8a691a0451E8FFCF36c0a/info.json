@@ -1,11 +1,11 @@
 {
-    "name": "EverRise",
-    "website": "https://www.everrisecoin.com",
-    "description": "EverRise is a hyper-deflationary token, which rewards investors for holding tokens, while also incorporating the Buyback approach currently present in the stock market.",
-    "explorer": "https://bscscan.com/token/0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a",
+    "name": "EverRise (old)",
     "type": "BEP20",
-    "symbol": "RISE",
+    "symbol": "RISE (old)",
     "decimals": 9,
-    "status": "active",
-    "id": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a"
+    "website": "https://www.everrisecoin.com/",
+    "description": "EverRise token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool.",
+    "explorer": "https://bscscan.com/token/0xC7D43F2B51F44f09fBB8a691a0451E8FFCF36c0a",
+    "status": "abandoned",
+    "id": "0xC7D43F2B51F44f09fBB8a691a0451E8FFCF36c0a"
 }

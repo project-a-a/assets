@@ -1,7 +1,7 @@
 {
     "name": "Leon Token",
     "website": "https://dex.leonicornswap.com",
-    "description": "Next generation AMM and yield farm with dual token model on Binance Smart Chain.",
+    "description": "Next generation AMM and yield farm with deflationary token model on Binance Smart Chain.",
     "explorer": "https://bscscan.com/token/0x27E873bee690C8E161813DE3566E9E18a64b0381",
     "type": "BEP20",
     "symbol": "LEON",
@@ -35,7 +35,7 @@
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/leon-token/"
+            "url": "https://coinmarketcap.com/currencies/leonicorn-swap/"
         }
     ]
 }
