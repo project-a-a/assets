@@ -1,0 +1,11 @@
+{
+    "name": "Nabox Token",
+    "website": "https://nabox.io/",
+    "description": "Cross-Chain DeFi Wallet with Decentralized Identifier for Web 3.0.",
+    "explorer": "https://etherscan.io/token/0x03d1e72765545729a035e909edd9371a405f77fb",
+    "type": "ERC20",
+    "symbol": "Nabox",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x03D1E72765545729A035e909eDd9371a405f77Fb"
+}
