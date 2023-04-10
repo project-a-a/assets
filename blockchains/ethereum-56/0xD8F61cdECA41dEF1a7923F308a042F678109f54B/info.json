@@ -1,11 +1,37 @@
 {
- "name": "Buffed Shiba",
- "website": "https://www.buffedshiba.com/",
- "description": "A community driven token that empowers small and non-private investors to build a stronger portfolio. Buffed Shiba is the only Shiba Inu inspired token that lifts.",
- "explorer": "https://bscscan.com/token/0xd8f61cdeca41def1a7923f308a042f678109f54b",
- "type": "BEP20",
- "symbol": "BSHIB",
- "decimals": 19,
- "status": "active",
- "id": "0xd8f61cdeca41def1a7923f308a042f678109f54b"
+    "name": "BuffedShiba",
+    "type": "BEP20",
+    "symbol": "BSHIB",
+    "decimals": 18,
+    "website": "https://www.buffedshiba.com/",
+    "description": "BuffedShiba is a community driven token inspired by the commonly known Buff Doge meme.",
+    "explorer": "https://bscscan.com/token/0xD8F61cdECA41dEF1a7923F308a042F678109f54B",
+    "status": "active",
+    "id": "0xD8F61cdECA41dEF1a7923F308a042F678109f54B",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BuffedShiba"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BuffedShiba"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/BuffedShibaAnnouncements"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/buffedshiba"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/de/currencies/buffedshiba/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/buffedshiba"
+        }
+    ]
 }

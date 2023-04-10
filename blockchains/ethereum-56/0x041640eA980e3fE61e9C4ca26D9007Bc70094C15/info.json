@@ -1,11 +1,21 @@
 {
- "name": "PirateCoin",
- "website": "https://piratecoin.games/",
- "description": "Simply hold PIRATE COIN in your wallet and you might win Trillions! The more you buy the more Chances of Winning Treasures. In Pirate Coin We Trust. Let’s get Rich Together! The ultimate NFT GAME METAVERSE on the Binance Smart Chain. Our objective is to contribute to many organizations that clean marine litter to save our planet.",
- "explorer": "https://bscscan.com/token/0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
- "type": "BEP20",
- "symbol": "PIRATECOIN",
- "decimals": 9,
- "status": "active",
- "id": "0x041640eA980e3fE61e9C4ca26D9007Bc70094C15"
+    "name": "PirateCoin",
+    "type": "BEP20",
+    "symbol": "PirateCoin☠",
+    "decimals": 9,
+    "website": "https://piratecoin.games/",
+    "description": "PirateCoin aims to produce a game integrating NFT by finding Treasure and earning PirateCoin. The character will earn and get experience the more time spent in the game. There will be enemies to fight, weapon upgrades, and much more. PirateCoin will be the main currency of the game.",
+    "explorer": "https://bscscan.com/token/0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
+    "status": "active",
+    "id": "0x041640eA980e3fE61e9C4ca26D9007Bc70094C15",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/piratecoingames"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PirateCoinGamesOfficial"
+        }
+    ]
 }

@@ -1,30 +1,32 @@
 {
-    "id": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
     "name": "Fantom",
-    "website": "https://fantom.foundation",
-    "description": "A DAG-Based Smart-Contract Platform.",
-    "explorer": "https://bscscan.com/token/0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
-    "research": "https://research.binance.com/en/projects/fantom",
     "symbol": "FTM",
     "type": "BEP20",
     "decimals": 18,
+    "description": "Fantom is a directed acyclic graph (DAG) smart contract platform providing decentralized finance (DeFi) services to developers using its own bespoke consensus algorithm.",
+    "website": "http://fantom.foundation",
+    "explorer": "https://bscscan.com/token/0xad29abb318791d579433d831ed122afeaf29dcfe",
     "status": "active",
+    "id": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "tags": [
+        "defi"
+    ],
     "links": [
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/zS4Ek4WByA/"
-        },
         {
             "name": "twitter",
             "url": "https://twitter.com/FantomFDN"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/fantomfoundation"
+            "url": "https://t.me/Fantom_English"
         },
         {
-            "name": "reddit",
-            "url": "https://reddit.com/r/FantomFoundation/"
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/fantom/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/fantom/"
         }
     ]
 }
